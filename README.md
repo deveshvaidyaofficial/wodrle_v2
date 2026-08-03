@@ -63,4 +63,11 @@ Default: Unused letter.
 Listen to global keydown events.
 Map keypresses to match virtual key triggers (Enter, Backspace, KeyA - KeyZ).
 
+## Main Screen
+<img width="575" height="624" alt="image" src="https://github.com/user-attachments/assets/7a845503-7d0c-422e-b965-2d36b746ba4e" align="center" />
+
+## Game Screen
+<img width="575" height="623" alt="image" src="https://github.com/user-attachments/assets/9cae3f98-6c06-4163-b0d6-845bcd0bccd3" align="center" />
+
+
 
