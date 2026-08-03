@@ -1,4 +1,4 @@
-import Switch from './Switch'
+import Switch from './Dark_Mode'
 import './Help.css'
 
 export default function Settings({ onClose, setDarkMode }) {
