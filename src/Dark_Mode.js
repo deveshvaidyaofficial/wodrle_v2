@@ -1,4 +1,4 @@
-import './Switch.css'
+import './Dark_Mode.css'
 
 export default function Switch({onChange, value}) {
   return (<>

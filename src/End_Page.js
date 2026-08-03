@@ -1,5 +1,5 @@
 import { getKeyState } from './Board'
-import './GameOver.css'
+import './End_Page.css'
 
 function generateResultText(boardState, word) {
   let result = 'Word Guess  |  ' + word + '\n\n'
