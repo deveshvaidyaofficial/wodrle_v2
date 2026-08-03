@@ -1,3 +1,4 @@
+#WODRLE - My final project at Zenmonk
 # Product Perspective
 The Wordle web application is a client-side SPA. It operates entirely within the user's web browser, maintaining game state, word dictionaries, and user statistics locally without requiring a backend service.
 
