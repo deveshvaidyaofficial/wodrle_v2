@@ -69,5 +69,7 @@ Map keypresses to match virtual key triggers (Enter, Backspace, KeyA - KeyZ).
 ## Game Screen
 <img width="575" height="623" alt="image" src="https://github.com/user-attachments/assets/9cae3f98-6c06-4163-b0d6-845bcd0bccd3" align="center" />
 
+# NOTE 
+Check old version at https://github.com/deveshvaidyaofficial/wodrle
 
 
