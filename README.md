@@ -45,10 +45,12 @@ Open Statistics Modal after a 1.5-second delay.
 
 ### Virtual Keyboard Layout
 Standard QWERTY layout divided into 3 rows:
+
 Row 1: Q W E R T Y U I O P
+
 Row 2: A S D F G H J K L
-Row 3:
-Z X C V B N M
+
+Row 3:Z X C V B N M
 
 ### Key Status Synchronization
 Keys on the virtual keyboard dynamically inherit color statuses based on guesses:
