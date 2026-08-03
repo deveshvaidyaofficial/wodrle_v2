@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import Header from './Header'
 import Board from './Board'
 import Keyboard from './Keyboard'
-import GameOver from './End_Page'
+import GameOver from './GameOver'
 import Alert from './Alert'
 
 function getRandomWord() {
